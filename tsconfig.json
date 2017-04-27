@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "removeComments": false,
+        "preserveConstEnums": true,
+        "sourceMap": false,
+        "experimentalDecorators": true,
+        "declaration": false,
+        "target": "es2017"
+    }
+}
