@@ -6,17 +6,27 @@ O site utilizado para fazer teste de segurança, carga e desempenho foi o Redmin
 
 Foi necessário criar também um usuário e uma classe de Client para ser usado no processo (ver mais no git).
 
+Para executar os testes na aplicação, foi utilizado o [Mocha](https://mochajs.org/).
+
 
 ## Executar o Aplicativo
 Digite o seguinte comando no terminal:
 	
-```terminal
+```bash
 npm start
 ```
+
+Árvore de Processos:
+
+![alt text](https://github.com/Wpdas/JMeter-Node-using-TDD/blob/master/imgs/JMeter%20Node%20(TypeScript).png?raw=true)
 
 ## Executar Testes (Mocha)
 Digite o seguinte comando no terminal para executar os testes no aplicativo.
 	
-```terminal
+```bash
 npm test
 ```
+
+Resultado esperado:
+
+![alt text](https://github.com/Wpdas/JMeter-Node-using-TDD/blob/master/imgs/TDD%20Test.png?raw=true)
