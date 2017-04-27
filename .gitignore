@@ -29,6 +29,13 @@ plugins/ios.json
 www/
 $RECYCLE.BIN/
 
+# Project
+index.js
+modules/*.js
+modules/jmeter/*.js
+modules/thread/*.js
+test/*.js
+
 .DS_Store
 Thumbs.db
 UserInterfaceState.xcuserstate
