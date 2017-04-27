@@ -1,6 +1,6 @@
 # JMeter Node App - Usando TDD
 
-Aplicativo baseado nos recursos do JMeter para Testes de Carga e Desempenho. Para este projeto, tive dois objetivo: Desenvolver um aplicativo simples que usa recursos (limitados) semelhantes ao do JMeter. Os recursos desenvolvidos foram: HTTPCookieManager, HTTPRequest, RegularExpressionExtractor e ThreadGroup.
+Aplicativo baseado nos recursos do JMeter para Testes de Carga e Desempenho. Para este projeto, tive dois objetivos: Desenvolver um aplicativo simples que usa recursos (limitados) semelhantes ao do JMeter. Os recursos desenvolvidos foram: HTTPCookieManager, HTTPRequest, RegularExpressionExtractor e ThreadGroup.
 
 O site utilizado para fazer teste de segurança, carga e desempenho foi o Redmine.org (site exclusivamente feito para testes). A parte do sistema que diz respeito ao JMeter foi separado numa pasta "jmeter" e a classe principal que diz respeito a ThreadGroup (ThreadGroupRedmine.ts) está na pasta "thread".
 
